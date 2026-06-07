@@ -5,7 +5,7 @@ Archivos de código de ESP32 de los circuitos emisores y receptores, que resuelv
 
       INGENIEROS EN PROCESO  
       1-	Brian, Leandro. Legajo 15841
-      2-	Corte, Mauricio. Legado 15683
+      2-	Corte, Mauricio. Legajo 15683
       3-	Felisia, Matías. Legajo 15672
       4-	Miguelez, Franco. Legajo 15616
       5-	Ortíz, David. Legajo 15781
